@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaFXGridView">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaFXGridView/dist/JavaFXGridView.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
