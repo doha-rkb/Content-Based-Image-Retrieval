@@ -24,6 +24,7 @@ To get started with this application, follow these steps:
 
 ## Contact
 
-For inquiries or support, please contact  rakibdouha2002@gmail.com
+For inquiries or support, please contact  rakibdouha2002@gmail.com , wiamtouhami11@gmail.com
+
 
 
